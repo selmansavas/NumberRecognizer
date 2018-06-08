@@ -1,0 +1,11 @@
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\bin\Debug\netcoreapp2.0\NumberRecognizer.deps.json
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\bin\Debug\netcoreapp2.0\NumberRecognizer.runtimeconfig.json
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\bin\Debug\netcoreapp2.0\NumberRecognizer.runtimeconfig.dev.json
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\bin\Debug\netcoreapp2.0\NumberRecognizer.dll
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\bin\Debug\netcoreapp2.0\NumberRecognizer.pdb
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\obj\Debug\netcoreapp2.0\NumberRecognizer.csprojAssemblyReference.cache
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\obj\Debug\netcoreapp2.0\NumberRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\obj\Debug\netcoreapp2.0\NumberRecognizer.AssemblyInfoInputs.cache
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\obj\Debug\netcoreapp2.0\NumberRecognizer.AssemblyInfo.cs
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\obj\Debug\netcoreapp2.0\NumberRecognizer.dll
+C:\Users\Selman\Documents\GitHub\NumberRecognizer\obj\Debug\netcoreapp2.0\NumberRecognizer.pdb
